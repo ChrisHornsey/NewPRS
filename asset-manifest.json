@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewPRS/static/css/main.66d6acd6.css",
+    "main.js": "/NewPRS/static/js/main.0cbb7e2c.js",
+    "static/js/787.576a8d7f.chunk.js": "/NewPRS/static/js/787.576a8d7f.chunk.js",
+    "static/media/logo.svg": "/NewPRS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NewPRS/index.html",
+    "main.66d6acd6.css.map": "/NewPRS/static/css/main.66d6acd6.css.map",
+    "main.0cbb7e2c.js.map": "/NewPRS/static/js/main.0cbb7e2c.js.map",
+    "787.576a8d7f.chunk.js.map": "/NewPRS/static/js/787.576a8d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d6acd6.css",
+    "static/js/main.0cbb7e2c.js"
+  ]
+}
